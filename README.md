@@ -91,6 +91,20 @@ Conecte o **DHT11** ao **ESP32** conforme abaixo:
 3. Observe as leituras sendo exibidas a cada **2 segundos**.
 
 
+### Tutorial Visual(Montagem)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.png)
+![](8.png)
+![](9.png)
+![](10.png)
+
+
+
 
 
 
