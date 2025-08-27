@@ -90,7 +90,7 @@ Copie e cole esse código no seu Arduino IDE.
 3. Observe as leituras sendo exibidas a cada **2 segundos**.
 
 ---
-### Tutorial Visual(Montagem)
+## Tutorial Visual(Montagem)
 ![](1.png)
 ![](2.png)
 ![](3.png)
