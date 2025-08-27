@@ -22,9 +22,8 @@ Conecte o **DHT11** ao **ESP32** conforme abaixo:
 > ⚠️ No código, o pino configurado é o **15**. Se usar outro, altere a linha `Bonezegei_DHT11 dht(15);`.
 
 ---
-
-    ## 💻 Código para ESP32
-    Copie e cole esse código no seu Arduino IDE.
+## 💻 Código para ESP32
+Copie e cole esse código no seu Arduino IDE.
     
     /*
       Read Temperature and Humidity
